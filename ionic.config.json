@@ -1,5 +1,6 @@
 {
   "name": "calendar",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "e4c36e56",
+  "type": "ionic-angular",
+  "integrations": {}
 }
